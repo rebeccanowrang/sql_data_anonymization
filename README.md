@@ -115,7 +115,7 @@ Identifiers, prices, order totals, statuses, loyalty levels, delivery methods, a
 
 ## Installation
 
-Python 3.10+ is recommended.
+Python 3.9+ is recommended.
 
 Create a virtual environment if desired:
 
